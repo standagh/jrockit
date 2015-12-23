@@ -1,6 +1,10 @@
 JRockit puppet module
 =====================
 
+this is just copy of biemond/puppet/modules/jrockit 
+It is here to be directly available via git-clone.
+
+
 Version updates
 ---------------
 - 0.1.1 Bug fix
